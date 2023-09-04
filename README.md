@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hunixia
-- 👀 I’m interested in Graphical Design an coding
+- 👀 I’m interested in Graphical Design and coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me housinielh1@hotmail.com
